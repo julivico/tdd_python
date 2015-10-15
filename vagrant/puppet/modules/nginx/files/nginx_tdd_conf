@@ -3,7 +3,7 @@ server {
 	
 	
 	location /static {
-		alias /home/vagrant/sites/tdd.django.staging/static;
+		alias /home/vagrant/sites/tdd_python/static;
 	}
 	
 	location / {
