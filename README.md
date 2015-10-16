@@ -1,4 +1,5 @@
 # tdd_python
+<<<<<<< HEAD
 
 Test-Driven Devlopment in Python
 ================================
@@ -12,3 +13,5 @@ Notices
 -------
 
 1. I didn't use Fabric on Chapter 9. Fabric isn't very famous now. So i have used puppet for automation tool on chapter 9.
+=======
+>>>>>>> 411d71b75aaaa4e74bd4ee67538416452d2d94fd
